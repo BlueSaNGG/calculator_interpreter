@@ -1,0 +1,4 @@
+run unit test for Lexer, Parser, Interpreter:
+    > py -m unittest lexer_test
+    > py -m unittest parser_test
+    > py -m unittest interpreter_test
